@@ -6,7 +6,7 @@ Ontodia embedding example in JavaScript
 First, clone repository and install all dependencies:
 
     git clone https://github.com/ontodia-org/ontodia-javascript-example.git
-    cd ontodia-typescript-example
+    cd ontodia-javascript-example
     npm install
 
 Then, start development server with
